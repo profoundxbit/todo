@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "todo_app",
+    "todo_dal"
+]
